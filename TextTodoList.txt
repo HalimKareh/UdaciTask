@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------
+Halim's Renamed ASAP To Do List                               23/02/2016 22:41
+------------------------------------------------------------------------------
+ I |     Description       | Creation Date| Due Date |P|Perc|Completion Status
+------------------------------------------------------------------------------
+1.   Feed the dog             23/02/2016  01/03/2016  0 100% completed: true  
+2.   Learn Spanish            23/02/2016              0 100% completed: true  
+3.   Music hoemwork           23/02/2016  22/04/2016  0 100% completed: true  
+4.   OS midterm               23/02/2016  16/03/2016  0 100% completed: true  
+5.   Play golf                23/02/2016  16/03/2016  0 100% completed: true  
+6.   Udacity--RubyND project  23/02/2016  27/04/2016  0 100% completed: true  
+7.   Update CV                23/02/2016              0 100% completed: true  
+
+*P represents priority(1 to 5) and Perc is the percentage of completion.

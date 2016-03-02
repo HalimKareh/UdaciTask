@@ -1,0 +1,12 @@
+Hello this is Halim Kareh's project.
+
+I've added new features to the To Do List app:
+
+	1.The Headings P, Perc, and Due Date (Priority, Percentage of Completion, Due Date) which alow the user
+		 to have a more detailled explanation of his tasks to complete.
+
+	2. All kinds of sorting methods(By completion, By percentage, By priority, Alphabetically).
+
+	3. A function that checks the whole list rather than item by item.
+
+	4. Printing of the list to a text file (Suggested by you guys:))
